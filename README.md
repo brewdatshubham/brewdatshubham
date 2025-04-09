@@ -1,16 +1,44 @@
-## Hi there 👋
 
-<!--
-**brewdatshubham/brewdatshubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Shubham Singh | @brewdatshubham
 
-Here are some ideas to get you started:
+[![Website](https://img.shields.io/badge/website--000?style=social&logo=google-chrome&logoColor=black&link=https://shubham20.vercel.app)](https://shubham20.vercel.app)
+[![Github Badge](https://img.shields.io/badge/GitHub--000?style=social&logo=Github&logoColor=black&link=https://github.com/brewdatshubham)](https://github.com/brewdatshubham)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn--000?style=social&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/shubham-singh19/)](https://www.linkedin.com/in/shubham-singh19/)
+[![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:shubham212a@gmail.com)](mailto:shubham212a@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Intern at Anheuser-Busch InBev 🍻
+
+<p align='center'>
+  <a href="#about-me">About me</a>
+  ·
+  <a href="#skillset">My Skillset</a>
+</p>
+
+## About me
+
+```js
+const me = {
+  name: 'Shubham Singh',
+  langs: ['Python', 'TypeScript', 'JavaScript'],
+  likesToDo: ['Coding', 'Playing games', 'Watching series and movies'],
+  favorite: {
+    food: 'Cheesy fries',
+    color: 'black',
+    anime: 'Naruto',
+    game: 'Clash of Clans',
+    song: 'Something just like this - Coldplay'
+  }
+}
+```
+
+## Skillset
+
+<img src="https://img.shields.io/badge/-bash-4EAA25?logo=gnuBash&logoColor=white&labelColor=4EAA25" alt="Bash" /> <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&labelColor=F05032" alt="Git" /> <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoftAzure&logoColor=white&labelColor=0078D4" alt="Azure" />
+
+<sub>Data</sub>
+
+<img src="https://img.shields.io/badge/SQL-blue" alt="Python" /> <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&labelColor=3776AB" alt="Python" /> <img src="https://img.shields.io/badge/-PyTest-0A9EDC?logo=Pytest&logoColor=white&labelColor=0A9EDC" alt="PyTest" /> <img src="https://img.shields.io/badge/-Spark-E25A1C?logo=apacheSpark&logoColor=white&labelColor=E25A1C" alt="Apache Spark" /> <img src="https://img.shields.io/badge/-Databricks-FF3621?logo=Databricks&logoColor=white&labelColor=FF3621" alt="Databricks" /> <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&labelColor=150458" alt="Pandas" />
+
+<sub>Web</sub>
+
+<img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&labelColor=007ACC" alt="Typescript" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&labelColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/-Node%20JS-green?logo=node.js&logoColor=white&labelColor=green" alt="Node" /> <img src="https://img.shields.io/badge/-React%20JS-61DAFB?logo=react&logoColor=white&labelColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/-HTML%205-E34F26?logo=HTML5&logoColor=white&labelColor=E34F26" alt="Html" /> <img src="https://img.shields.io/badge/-CSS%203-1572B6?logo=CSS3&logoColor=white&labelColor=1572B6" alt="CSS" />
