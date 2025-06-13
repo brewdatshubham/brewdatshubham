@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn--000?style=social&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/shubham-singh19/)](https://www.linkedin.com/in/shubham-singh19/)
 [![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:shubham212a@gmail.com)](mailto:shubham212a@gmail.com)
 
-I am a Intern at Anheuser-Busch InBev 🍻
+I am a Junior Data Scientist at Anheuser-Busch InBev 🍻
 
 <p align='center'>
   <a href="#about-me">About me</a>
@@ -23,7 +23,7 @@ const me = {
   likesToDo: ['Coding', 'Playing games', 'Watching series and movies'],
   favorite: {
     food: 'Cheesy fries',
-    color: 'black',
+    color: 'Blue',
     anime: 'Naruto',
     game: 'Clash of Clans',
     song: 'Something just like this - Coldplay'
